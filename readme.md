@@ -1,0 +1,1 @@
+Hello, this is just my practice CSS repo for TOP. I'm hoping to be as stylized in web development as I feel in real life.
